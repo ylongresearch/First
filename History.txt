@@ -44,7 +44,7 @@ New Start
 ========================================================================
 date          receive         sent          weight
 06-22         12              0             NaN
-elecBill      115 pound
-WaterBill     28  pound
+elecBill      165 pound
+WaterBill     26.9 pound
 Overweight.                   1.9 pound
 6-26                          1.            7
